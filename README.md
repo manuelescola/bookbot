@@ -1,7 +1,26 @@
-# bookbot
+🤖 BookBot
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+BookBot is my first project from Boot.dev! 🚀
 
-It was conducted to test how GitHub works some time ago, but I decided to re-uploaded again.
 
-The project only has two .py files: one creates functions, the other one calls them. The final output is a report that counts the number of words (and other basic stuff) for any given book stored in a .txt file.
+Originally created to experiment with GitHub, I decided to re-upload it to preserve its functionality and showcase the work.
+
+📌 Project Overview:
+
+📂 The project consists of two Python (.py) files:
+
+- 🔹 One file defines functions 🛠️
+
+- 🔹 The other executes them 📜
+
+
+📊 What BookBot Does:
+
+- 📖 Reads any .txt book file
+
+- 📝 Counts the total words & other basic statistics
+
+- 📑 Generates a detailed report
+
+
+This simple yet effective script provides insight into text analysis and basic automation with Python! 🐍
